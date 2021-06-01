@@ -1,0 +1,5 @@
+
+guru:
+  username: QaYmlUserName
+  password: QaYmlPassword
+  jdbcurl: QaYmlURL
